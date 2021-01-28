@@ -1,6 +1,7 @@
 # test
 
 Сделано на Unity 2020.2.0f1
+Видео: https://youtu.be/jcxXDlBqWUk
 
 1. Импортируйте пак в свой проект.
 2. Добавьте тег 'Gun' в Tag & Layers.
